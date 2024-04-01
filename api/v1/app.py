@@ -1,4 +1,4 @@
-!#/usr/bin/python3
+#!/usr/bin/python3
 """Flask server (variable app)"""
 
 from flask import Flask
